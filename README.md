@@ -61,3 +61,12 @@ python main.py --tickers NVDA META AMD
 ## Requirements
 - Python 3.8+
 - pandas, yfinance, matplotlib, jinja2
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## Connect with me
+
+If you'd like to connect, feel free to reach out — [Click here](https://minianonlink.vercel.app/tusharbhardwaj)
+
